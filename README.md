@@ -36,6 +36,12 @@ $ ls -l zen.txt*
 |-a [ms]|--animation [ms]|アニメーションモード。饒舌モードをアニメーションにします。スピードをミリ秒で設定でき、デフォルトは500msです。|
 |-h|--help|ヘルプの表示|
 
+## 参考にしたページ
+
+著作者等不明なのですが、このサイトのC言語コードと解説文を参考に実装しました。
+
+[FGK符号 http://raigar.main.jp/algo/f/fgk.html](http://raigar.main.jp/algo/f/fgk.html)
+
 ## 使用したバージョン
 
 ```bash
